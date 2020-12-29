@@ -1,0 +1,72 @@
+2020-12-29 13:54:58.124  INFO 1160 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication on DESKTOP-R7O8H5N with PID 1160 (D:\newproject\12022\demoboot\target\classes started by lichu in D:\newproject\12022\demoboot)
+2020-12-29 13:54:58.128  INFO 1160 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to default profiles: default
+2020-12-29 13:55:01.065  INFO 1160 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8083 (http)
+2020-12-29 13:55:01.081  INFO 1160 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-12-29 13:55:01.082  INFO 1160 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.27]
+2020-12-29 13:55:01.237  INFO 1160 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-12-29 13:55:01.237  INFO 1160 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 3014 ms
+2020-12-29 13:55:01.336  INFO 1160 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'scheduledExecutorService'
+2020-12-29 13:55:01.529  INFO 1160 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-29 13:55:01.805  INFO 1160 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8083 (http) with context path ''
+2020-12-29 13:55:01.810  INFO 1160 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 4.377 seconds (JVM running for 5.027)
+2020-12-29 13:55:13.002  INFO 1160 --- [pool-1-thread-1] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 13:56:13.001  INFO 1160 --- [pool-1-thread-2] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 13:57:13.002  INFO 1160 --- [pool-1-thread-3] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 13:58:13.001  INFO 1160 --- [pool-1-thread-2] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 13:59:13.001  INFO 1160 --- [pool-1-thread-1] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:00:13.002  INFO 1160 --- [pool-1-thread-5] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:01:13.002  INFO 1160 --- [pool-1-thread-2] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:02:13.002  INFO 1160 --- [pool-1-thread-3] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:16:07.459  INFO 5800 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication on DESKTOP-R7O8H5N with PID 5800 (D:\newproject\12022\demoboot\target\classes started by lichu in D:\newproject\12022\demoboot)
+2020-12-29 14:16:07.464  INFO 5800 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to default profiles: default
+2020-12-29 14:16:09.705  INFO 5800 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8083 (http)
+2020-12-29 14:16:09.724  INFO 5800 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-12-29 14:16:09.725  INFO 5800 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.27]
+2020-12-29 14:16:09.836  INFO 5800 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-12-29 14:16:09.836  INFO 5800 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2287 ms
+2020-12-29 14:16:09.931  INFO 5800 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'scheduledExecutorService'
+2020-12-29 14:16:10.053  INFO 5800 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-29 14:16:10.249  INFO 5800 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8083 (http) with context path ''
+2020-12-29 14:16:10.253  INFO 5800 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 3.445 seconds (JVM running for 3.961)
+2020-12-29 14:16:13.001  INFO 5800 --- [pool-1-thread-1] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:17:13.003  INFO 5800 --- [pool-1-thread-2] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:18:13.002  INFO 5800 --- [pool-1-thread-3] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:19:13.001  INFO 5800 --- [pool-1-thread-2] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:20:13.001  INFO 5800 --- [pool-1-thread-1] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:21:13.024  INFO 5800 --- [pool-1-thread-5] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:22:13.002  INFO 5800 --- [pool-1-thread-2] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:23:13.001  INFO 5800 --- [pool-1-thread-3] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:24:13.002  INFO 5800 --- [pool-1-thread-7] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:25:13.001  INFO 5800 --- [pool-1-thread-7] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:26:13.002  INFO 5800 --- [pool-1-thread-7] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:27:13.002  INFO 5800 --- [pool-1-thread-7] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:28:13.002  INFO 5800 --- [pool-1-thread-7] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:29:13.001  INFO 5800 --- [pool-1-thread-7] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:30:13.001  INFO 5800 --- [pool-1-thread-7] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:31:13.002  INFO 5800 --- [pool-1-thread-7] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:32:13.001  INFO 5800 --- [pool-1-thread-7] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:33:13.001  INFO 5800 --- [pool-1-thread-7] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:34:13.001  INFO 5800 --- [pool-1-thread-7] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:35:13.001  INFO 5800 --- [pool-1-thread-7] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:36:13.002  INFO 5800 --- [pool-1-thread-7] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:37:13.001  INFO 5800 --- [pool-1-thread-7] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:38:13.002  INFO 5800 --- [pool-1-thread-7] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:39:13.001  INFO 5800 --- [pool-1-thread-7] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:40:13.002  INFO 5800 --- [pool-1-thread-7] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:41:13.001  INFO 5800 --- [pool-1-thread-7] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:42:13.001  INFO 5800 --- [pool-1-thread-7] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:43:13.002  INFO 5800 --- [pool-1-thread-7] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:44:13.001  INFO 5800 --- [pool-1-thread-7] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:45:13.001  INFO 5800 --- [pool-1-thread-7] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:46:13.001  INFO 5800 --- [pool-1-thread-7] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:47:13.001  INFO 5800 --- [pool-1-thread-7] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:48:13.001  INFO 5800 --- [pool-1-thread-7] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:49:13.001  INFO 5800 --- [pool-1-thread-7] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:50:13.001  INFO 5800 --- [pool-1-thread-7] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:51:13.002  INFO 5800 --- [pool-1-thread-7] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:52:13.001  INFO 5800 --- [pool-1-thread-7] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:53:13.001  INFO 5800 --- [pool-1-thread-7] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:54:13.002  INFO 5800 --- [pool-1-thread-7] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:55:13.002  INFO 5800 --- [pool-1-thread-7] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:56:13.001  INFO 5800 --- [pool-1-thread-7] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron
+2020-12-29 14:57:13.001  INFO 5800 --- [pool-1-thread-7] c.e.d.s.impl.EquipmentExtendServiceImpl  : testcron

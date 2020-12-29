@@ -1,0 +1,14 @@
+db: tpf_pd
+slavedb: yjyd
+server:
+  port: 8083
+  servlet:
+    context-path:
+
+
+logging:
+  path: ./logs1
+  level:
+    com.example: info
+
+
